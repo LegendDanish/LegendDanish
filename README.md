@@ -1,19 +1,20 @@
 ![logo](https://github.com/LegendDanish/LegendDanish/blob/main/jarvis_wallpaper_by_fariz22_dat50i3-fullview.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Danish</h1>
 <h3 align="center">A passionate Artifical Intelligence Engineer</h3>
-<img align="right" alt="Analyzing" width="400" src="https://github.com/LegendDanish/LegendDanish/blob/main/kiiwik-app-_03.gif">
+<img align="right" alt="Analyzing" width="400" src="https://github.com/LegendDanish/LegendDanish/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legenddanish&label=Profile%20views&color=0e75b6&style=flat" alt="legenddanish" /> </p>
+- 🌱 I’m currently learning **DBMS, AI Algorithms**
 
-- 🌱 I’m currently learning **AI FrameWorks, DBMS**
-
-- 💬 Ask me about **C++, C#, .netDevelopment, AI, Object Oriented Programming**
+- 💬 Ask me about **C++, C#, .netDevelopment, AI, Data Structures and Algorithms**
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-danish-54718a238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-danish-54718a238" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100049824785763&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100049824785763&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/mirzadanish86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mirzadanish86" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/dnmughal54321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dnmughal54321" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legenddanish&show_icons=true&locale=en" alt="legenddanish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legenddanish&" alt="legenddanish" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legenddanish" alt="legenddanish" /></a> </p>
+
