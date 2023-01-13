@@ -4,9 +4,9 @@
 <img align="right" alt="Analyzing" width="400" src="https://github.com/LegendDanish/LegendDanish/blob/main/kiiwik-app-_03.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legenddanish&label=Profile%20views&color=0e75b6&style=flat" alt="legenddanish" /> </p>
 
-- 🌱 I’m currently learning **AI FrameWorks, Web Development**
+- 🌱 I’m currently learning **AI FrameWorks, DBMS**
 
-- 💬 Ask me about **C++, C#, .netDevelopment, AI**
+- 💬 Ask me about **C++, C#, .netDevelopment, AI, Object Oriented Programming**
 
 - ⚡ Fun fact **I am funny**
 
