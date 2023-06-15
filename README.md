@@ -12,7 +12,6 @@
 
 * 💬 Ask me about **C++, C#, .netDevelopment, AI, Data Structures and Algorithms**
  
-* ⚡ Fun fact **I am funny**
 
 ## Connect with me:
 
