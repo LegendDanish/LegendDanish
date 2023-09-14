@@ -10,7 +10,7 @@
 
 * 🌱 I’m currently learning **DBMS, AI Algorithms**
 
-* 💬 Ask me about **C++, C#, .netDevelopment, AI, Data Structures and Algorithms**
+* 💬 Ask me about **C++, C#, .netDevelopment, Data Structures and Algorithms, AI and Ml Algortihms**
  
 
 ## Connect with me:
