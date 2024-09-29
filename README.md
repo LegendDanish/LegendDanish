@@ -1,4 +1,4 @@
-![logo](https://github.com/LegendDanish/LegendDanish/blob/main/jarvis_wallpaper_by_fariz22_dat50i3-fullview.jpg)
+![logo](https://github.com/LegendDanish/LegendDanish/blob/main/CoverImage.png)
 <h1 align="center">Hi 👋, I'm Muhammad Danish</h1>
 <h3 align="center">A passionate Artifical Intelligence Engineer</h3>
 <div style="display: flex;
